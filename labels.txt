@@ -1,0 +1,5 @@
+0 borracha
+1 caneta
+2 mouse
+3 celular
+4 tampa
